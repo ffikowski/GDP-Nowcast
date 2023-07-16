@@ -1,4 +1,4 @@
-# GDP growth - Nowcast (07/2022)
-- In this project GDP growth of the U.S. is nowcasted through a time series analysis approach
-- u-MIDAS (unrestricted mixed-data sampling) regression model is applied to handle mixed frequency data
-- The data is taken from the FRED data base
+# GDP Growth - Nowcast (07/2022)
+- This project nowcasts the GDP growth of the U.S. using a time series analysis approach.
+- The u-MIDAS (Unrestricted Mixed-Data Sampling) regression model is used to handle data of mixed frequencies.
+- Data for this project is sourced from the FRED database.
